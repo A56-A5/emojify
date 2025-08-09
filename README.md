@@ -4,8 +4,8 @@
 ### Team Name: Trash  
 
 ### Team Members  
-- Team Lead: Alvi A V – [College]  
-- Member 2: Alin Alex – [College]  
+- Team Lead: Alvi A V – [Christ College of Engineering]  
+- Member 2: Alin Alex – [Christ College of Engineering]  
 
 ### Project Description  
 A completely quirky web application with hidden features, weird interactions, and lots of surprises! This app is designed to be fun, annoying, and entertaining — the kind of app your friends will *love to hate*.  
@@ -58,7 +58,7 @@ Then open `http://localhost:3000` in your browser.
 ### Project Documentation  
 
 #### Screenshots (Add at least 3)  
-![Screenshot1](Add screenshot here)  
+![images/image1.png](Add screenshot here)  
 *The infamous registration page with runaway input fields.*  
 
 ![Screenshot2](Add screenshot here)  
@@ -75,12 +75,8 @@ Then open `http://localhost:3000` in your browser.
 
 ### Project Demo  
 
-#### Video  
-[Add your demo video link here]  
-*Shows the frustration of trying to register and the joy (or horror) of chatting.*  
-
-#### Additional Demos  
-- Live link on Render: [Add URL]  
+  
+- Live link on Render: [https://emojify-5q71.onrender.com/]  
 
 ---
 
