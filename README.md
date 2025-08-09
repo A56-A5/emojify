@@ -58,20 +58,9 @@ Then open `http://localhost:3000` in your browser.
 ### Project Documentation  
 
 #### Screenshots (Add at least 3)  
-![images/image1.png](Add screenshot here)  
-*The infamous registration page with runaway input fields.*  
+![image_2025-08-09_153556921.png]
+![]
 
-![Screenshot2](Add screenshot here)  
-*The 10x10 pixel “Register” button that will ruin your patience.*  
-
-![Screenshot3](Add screenshot here)  
-*The cursed chatroom where your words get twisted by Gemini.*  
-
-#### Diagrams  
-![Workflow](Add diagram here)  
-*The workflow showing registration chaos → server → Gemini API → cursed chatroom.*  
-
----
 
 ### Project Demo  
 
@@ -79,10 +68,6 @@ Then open `http://localhost:3000` in your browser.
 - Live link on Render: [https://emojify-5q71.onrender.com/]  
 
 ---
-
-## Team Contributions  
-- **Alvi A V:** Registration page chaos logic, tiny button implementation.  
-- **Alin Alex:** Chatroom integration with Gemini API, opposite-meaning transformation & emoji generation.  
 
 ---
 
