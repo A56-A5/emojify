@@ -1,4 +1,4 @@
-# Trash 🎯
+<img width="1870" height="933" alt="image" src="https://github.com/user-attachments/assets/5a3482af-cbf9-4a67-b6ae-c17c9d739d0b" /># Trash 🎯
 
 ## Basic Details  
 ### Team Name: Trash  
@@ -57,7 +57,7 @@ Then open `http://localhost:3000` in your browser.
 
 ### Project Documentation  
 
-#### Screenshots (Add at least 3)  
+![]()  
 ![](image_2025-08-09_153653010.png)
 ![](image_2025-08-09_153556921.png)
 
