@@ -1,23 +1,41 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
-  <meta charset="UTF-8" />
-  <title>Emoji Chatroom</title>
-  <link rel="stylesheet" href="style.css" />
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Emojify - Login</title>
+    <link rel="stylesheet" href="style.css">
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600;700&display=swap" rel="stylesheet">
 </head>
 <body>
-  <div id="login-screen">
-    <h2>Login</h2>
-    <input type="text" id="username" placeholder="Enter username" />
-    <button id="login-btn">Login</button>
-  </div>
-
-  <div id="chat-screen" style="display:none;">
-    <div id="chat-box"></div>
-    <input type="text" id="message" placeholder="Type your message..." />
-    <button id="send-btn">Send</button>
-  </div>
-
-  <script src="script.js"></script>
+    <div class="container">
+        <div class="login-card">
+            <div class="logo">
+                <h1>🎭 Emojify</h1>
+                <p>Where names become characters & messages become emojis!</p>
+            </div>
+            
+            <div class="login-form">
+                <div class="name-display">
+                    <h2 id="username">Generating your character name...</h2>
+                </div>
+                
+                <div class="question-section">
+                    <p id="absurd-question" class="question">Loading a weird question...</p>
+                    <input type="text" id="answer" placeholder="Type any answer (it doesn't matter!)" class="answer-input">
+                </div>
+                
+                <div class="button-container">
+                    <button id="login-btn" class="login-button">
+                        <span>🎯 Login</span>
+                    </button>
+                </div>
+                
+                <p class="hint">💡 The button jumps around - catch it if you can!</p>
+            </div>
+        </div>
+    </div>
+    
+    <script src="script.js"></script>
 </body>
 </html>
