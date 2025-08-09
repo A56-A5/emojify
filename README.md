@@ -1,6 +1,6 @@
 
 
-## Basic Details  
+## Emojify
 ### Team Name: Trash  
 
 ### Team Members  
