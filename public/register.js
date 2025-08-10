@@ -143,7 +143,7 @@ document.addEventListener('DOMContentLoaded', function() {
                     
                     showMessage('🎉 Going to chatroom with fallback data...', 'success');
                     setTimeout(() => {
-                        window.location.href = '/chatroom';
+                        window.location.href = '/chatroom.html';
                     }, 1000);
                 }
             } else {
@@ -154,7 +154,7 @@ document.addEventListener('DOMContentLoaded', function() {
                 
                 showMessage('🎉 Going to chatroom with fallback data...', 'success');
                 setTimeout(() => {
-                    window.location.href = '/chatroom';
+                    window.location.href = '/chatroom.html';
                 }, 1000);
             }
         } catch (error) {
@@ -165,7 +165,7 @@ document.addEventListener('DOMContentLoaded', function() {
             
             showMessage('🎉 Going to chatroom with fallback data...', 'success');
             setTimeout(() => {
-                window.location.href = '/chatroom';
+                window.location.href = '/chatroom.html';
             }, 1000);
         }
     }
