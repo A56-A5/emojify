@@ -2,13 +2,12 @@
   "name": "quirky-webapp",
   "version": "1.0.0",
   "description": "A quirky web application with hidden features and weird interactions",
-  "main": "server.js",
   "type": "module",
   "scripts": {
-    "start": "node server.js",
-    "dev": "nodemon server.js",
-    "build": "echo 'No build step required for Vercel'",
-    "vercel-build": "echo 'No build step required for Vercel'"
+    "dev": "vercel dev",
+    "build": "echo 'Building for Vercel deployment...'",
+    "vercel-build": "echo 'Vercel build completed successfully'",
+    "start": "vercel dev"
   },
   "dependencies": {
     "express": "^4.19.2",
