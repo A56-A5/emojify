@@ -49,7 +49,9 @@ npm install
 
 #### Run  
 ```bash
-node server.js
+npm start
+or 
+vercel dev
 ```
 Then open `http://localhost:3000` in your browser.  
 
@@ -65,7 +67,8 @@ Then open `http://localhost:3000` in your browser.
 ### Project Demo  
 
   
-- Live link on Render: [https://emojify-5q71.onrender.com/]  
+- Live link on Render: [https://emojify-5q71.onrender.com/]
+- Live link on Vercel: [https://emojify-murex.vercel.app]
 
 ---
 
