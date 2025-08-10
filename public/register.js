@@ -133,7 +133,7 @@ document.addEventListener('DOMContentLoaded', function() {
                     
                     showMessage(`🎉 Welcome, ${loginResult.malayalamName}! Going to chatroom...`, 'success');
                     setTimeout(() => {
-                        window.location.href = '/chatroom';
+                        window.location.href = 'chatroom.html';
                     }, 1000);
                 } else {
                     // If login fails, still go to chatroom with fallback data
